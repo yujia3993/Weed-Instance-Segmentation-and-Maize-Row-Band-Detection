@@ -33,26 +33,26 @@ Full internship report: [docs/report.pdf](docs/report.pdf)
 │
 └── datasets/
     ├── baseline_dataset_AB/
-    │   └── annotations/       # ✅ COCO JSON annotations (included)
+    │   └── annotations/       # COCO JSON annotations (included)
     │       ├── instances_train.json
     │       ├── instances_val.json
     │       └── instances_test.json
-    ├── c_cropped/             # ✅ bbox-expanded crop patches (included)
+    ├── c_cropped/             # bbox-expanded crop patches (included)
     ├── coco_v3/
-    │   └── annotations/       # ✅ COCO JSON annotations (included)
+    │   └── annotations/       # COCO JSON annotations (included)
     │       ├── instances_train.json
     │       ├── instances_val.json
     │       └── instances_test.json
     └── corn_augmented/
         ├── train/
-        │   ├── images/        # ✅ 348 raw images included; augmented copies excluded by .gitignore
-        │   └── labels/        # ✅ 348 raw JSON annotations included; augmented copies excluded
+        │   ├── images/        # 348 raw images included; augmented copies excluded by .gitignore
+        │   └── labels/        # 348 raw JSON annotations included; augmented copies excluded
         ├── val/
-        │   ├── images/        # ✅ included (43 images, no augmentation)
-        │   └── labels/        # ✅ included
+        │   ├── images/        # included (43 images, no augmentation)
+        │   └── labels/        # included
         └── test/
-            ├── images/        # ✅ included (45 images, no augmentation)
-            └── labels/        # ✅ included
+            ├── images/        # included (45 images, no augmentation)
+            └── labels/        # included
 ```
 
 > **Note**: CropAndWeed source images are not included in this repo due to size and licensing.
@@ -219,7 +219,7 @@ Jointly trains the SAM2 mask decoder and a 2-layer MLP classification head (256�
 - Optimizer: AdamW with separate LRs — decoder 3e-4, cls head 1e-3
 - 40 epochs, gradient accumulation × 2, early stop patience = 12
 
-> ⚠️ **Known limitation**: the classification head did not converge on 8,687 instances.
+> **Known limitation**: the classification head did not converge on 8,687 instances.
 > The mask decoder fine-tuning itself works (val mask AP@0.5 reaches 0.10 when evaluated with GT labels).
 > See the report for details and the recommended decoupled alternative.
 
