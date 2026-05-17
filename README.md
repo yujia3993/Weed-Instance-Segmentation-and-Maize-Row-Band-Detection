@@ -7,6 +7,10 @@ An 8-week research project applying deep learning to two precision agriculture t
 
 All experiments are designed to run on **Google Colab** (GPU required).
 
+## Report
+
+Full internship report: [docs/report.pdf](docs/report.pdf)
+
 ---
 
 ## Project Structure
