@@ -1,0 +1,94 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          305.24427890602306,
+          945.7024636609474
+        ],
+        [
+          323.5854038286463,
+          271.71536804344936
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          623.1994657715471,
+          835.335207254014
+        ],
+        [
+          464.21430475349746,
+          251.08557528550168
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          860.1858061819269,
+          571.2755231855783
+        ],
+        [
+          699.5748701178011,
+          274.9029028886541
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1212.1567619485759,
+          515.128311773223
+        ],
+        [
+          838.9779886634951,
+          158.7877620089922
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "835_rot2.jpg",
+  "imageData": null,
+  "imageHeight": 1026,
+  "imageWidth": 1422
+}

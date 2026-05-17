@@ -1,0 +1,59 @@
+{
+  "imagePath": "vwg-0532-0005.jpg",
+  "bboxes": [
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        764.0,
+        553.0,
+        810.0,
+        581.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        821.0,
+        400.0,
+        837.0,
+        433.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1048.0,
+        350.0,
+        1087.0,
+        378.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        611.0,
+        0.0,
+        1224.0,
+        499.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1048.0,
+        350.0,
+        1088.0,
+        379.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        821.0,
+        400.0,
+        838.0,
+        433.0
+      ]
+    }
+  ]
+}

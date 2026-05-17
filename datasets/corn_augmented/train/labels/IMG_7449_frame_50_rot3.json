@@ -1,0 +1,81 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          392.3054119519562,
+          967.5759047835985
+        ],
+        [
+          1042.145876279188,
+          178.37124554908374
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          917.9480320762817,
+          1098.2651517760107
+        ],
+        [
+          996.9416275822941,
+          569.4453608303006
+        ],
+        [
+          1154.821328463433,
+          199.4266012968865
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1552.8134505598955,
+          1269.5907273831351
+        ],
+        [
+          1401.2451860627373,
+          741.6838310433229
+        ],
+        [
+          1283.07975763266,
+          219.66675593431907
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "IMG_7449_frame_50_rot3.jpg",
+  "imageData": null,
+  "imageHeight": 1396,
+  "imageWidth": 2078
+}

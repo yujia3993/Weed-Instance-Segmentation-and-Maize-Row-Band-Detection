@@ -1,0 +1,116 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          77.54385964912288,
+          725.9649122807018
+        ],
+        [
+          620.233918128655,
+          56.95906432748538
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          383.9766081871345,
+          870.9941520467833
+        ],
+        [
+          796.8421052631579,
+          30.058479532163744
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          934.8538011695906,
+          840.5847953216371
+        ],
+        [
+          926.6666666666666,
+          45.26315789473688
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1523.157894736842,
+          928.3040935672511
+        ],
+        [
+          1111.4619883040934,
+          76.84210526315792
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1801.520467836257,
+          554.0350877192982
+        ],
+        [
+          1251.8128654970758,
+          45.26315789473688
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "IMG_7449_frame_3.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920,
+  "description": ""
+}

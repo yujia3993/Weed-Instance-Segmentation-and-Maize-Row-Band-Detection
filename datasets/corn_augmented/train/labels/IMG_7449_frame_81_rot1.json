@@ -1,0 +1,115 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          415.32860930816673,
+          923.5357732773175
+        ],
+        [
+          1061.9246287520332,
+          306.2906076036971
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1018.2859451064189,
+          1226.3860045267488
+        ],
+        [
+          1220.0835977468182,
+          381.2808977165946
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1706.0725995232642,
+          1552.6436685536187
+        ],
+        [
+          1474.6725685841075,
+          447.8060053989872
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          427.64436431920353,
+          499.8579277925472
+        ],
+        [
+          858.1993012798478,
+          233.38530480315586
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1988.4085051596944,
+          1050.504484651984
+        ],
+        [
+          1709.6724941083662,
+          527.1157215172472
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "IMG_7449_frame_81_rot1.jpg",
+  "imageData": null,
+  "imageHeight": 1671,
+  "imageWidth": 2173
+}

@@ -1,0 +1,102 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          281.87736413268,
+          852.8785507640084
+        ],
+        [
+          626.8210018681667,
+          256.43298825608747
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          623.3085709339039,
+          1152.527956599839
+        ],
+        [
+          796.8120677162204,
+          257.33744693672656
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1342.1234670127371,
+          952.14822150597
+        ],
+        [
+          1186.591675967181,
+          750.3594140357992
+        ],
+        [
+          1048.521353012549,
+          196.32744014542536
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1858.8241826987671,
+          811.1593388830074
+        ],
+        [
+          1592.5256366683645,
+          546.954989852813
+        ],
+        [
+          1230.0362621442516,
+          154.82039655111006
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "IMG_7449_frame_110_rot2.jpg",
+  "imageData": null,
+  "imageHeight": 1396,
+  "imageWidth": 2078
+}

@@ -1,0 +1,99 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          451.812865497076,
+          861.6374269005844
+        ],
+        [
+          816.7251461988303,
+          30.058479532163744
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1005.0292397660818,
+          833.567251461988
+        ],
+        [
+          965.2631578947369,
+          355.204678362573
+        ],
+        [
+          958.2456140350877,
+          24.210526315789508
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1583.9766081871344,
+          922.4561403508771
+        ],
+        [
+          1103.2748538011695,
+          32.39766081871346
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1658.8304093567249,
+          522.4561403508771
+        ],
+        [
+          1200.3508771929824,
+          30.058479532163744
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "IMG_7449_frame_35.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920,
+  "description": ""
+}

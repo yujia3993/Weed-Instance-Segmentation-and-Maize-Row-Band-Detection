@@ -1,0 +1,106 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          171.4029640019234,
+          758.7932577257393
+        ],
+        [
+          758.4694957779573,
+          204.35998758540268
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          495.7691006445066,
+          1007.1967469792057
+        ],
+        [
+          738.6664674341164,
+          552.4076847900296
+        ],
+        [
+          941.7398947442978,
+          202.23413322675148
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1041.4656499729615,
+          1131.9209750459725
+        ],
+        [
+          1036.3179185002791,
+          655.9599054203552
+        ],
+        [
+          1084.4934287596507,
+          194.15169586771393
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1652.9495730413869,
+          1253.9936905227216
+        ],
+        [
+          1437.8308169013753,
+          736.2585302244761
+        ],
+        [
+          1266.765213157404,
+          318.92653948603464
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "IMG_7449_frame_117_rot3.jpg",
+  "imageData": null,
+  "imageHeight": 1396,
+  "imageWidth": 2078
+}

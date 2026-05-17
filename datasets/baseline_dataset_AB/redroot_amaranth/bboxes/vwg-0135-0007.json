@@ -1,0 +1,113 @@
+{
+  "imagePath": "vwg-0135-0007.jpg",
+  "bboxes": [
+    {
+      "label": "redroot_amaranth",
+      "bbox": [
+        0.0,
+        258.0,
+        70.0,
+        510.0
+      ]
+    },
+    {
+      "label": "redroot_amaranth",
+      "bbox": [
+        0.0,
+        895.0,
+        62.0,
+        1013.0
+      ]
+    },
+    {
+      "label": "redroot_amaranth",
+      "bbox": [
+        1197.0,
+        0.0,
+        1486.0,
+        330.0
+      ]
+    },
+    {
+      "label": "redroot_amaranth",
+      "bbox": [
+        1718.0,
+        338.0,
+        1916.0,
+        588.0
+      ]
+    },
+    {
+      "label": "redroot_amaranth",
+      "bbox": [
+        1865.0,
+        740.0,
+        1919.0,
+        878.0
+      ]
+    },
+    {
+      "label": "redroot_amaranth",
+      "bbox": [
+        597.0,
+        334.0,
+        819.0,
+        564.0
+      ]
+    },
+    {
+      "label": "redroot_amaranth",
+      "bbox": [
+        273.0,
+        288.0,
+        298.0,
+        317.0
+      ]
+    },
+    {
+      "label": "redroot_amaranth",
+      "bbox": [
+        303.0,
+        263.0,
+        323.0,
+        274.0
+      ]
+    },
+    {
+      "label": "redroot_amaranth",
+      "bbox": [
+        752.0,
+        147.0,
+        780.0,
+        173.0
+      ]
+    },
+    {
+      "label": "redroot_amaranth",
+      "bbox": [
+        792.0,
+        160.0,
+        828.0,
+        184.0
+      ]
+    },
+    {
+      "label": "redroot_amaranth",
+      "bbox": [
+        1872.0,
+        130.0,
+        1914.0,
+        177.0
+      ]
+    },
+    {
+      "label": "redroot_amaranth",
+      "bbox": [
+        1878.0,
+        240.0,
+        1911.0,
+        288.0
+      ]
+    }
+  ]
+}

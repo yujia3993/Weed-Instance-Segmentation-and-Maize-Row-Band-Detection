@@ -1,0 +1,73 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          394.0021274764897,
+          1067.621157276174
+        ],
+        [
+          1075.1213698471308,
+          283.71147651131434
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          840.1257981393728,
+          1206.348499255133
+        ],
+        [
+          1125.0758783786441,
+          310.6059972424645
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1444.586249560491,
+          1494.8099914643212
+        ],
+        [
+          1181.5277424761962,
+          329.90814307734547
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "IMG_7449_frame_23_rot1.jpg",
+  "imageData": null,
+  "imageHeight": 1671,
+  "imageWidth": 2173
+}

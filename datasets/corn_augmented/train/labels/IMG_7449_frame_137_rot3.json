@@ -1,0 +1,98 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          194.66406948987773,
+          968.5315040623882
+        ],
+        [
+          959.0262250436793,
+          307.58445269167345
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          544.4337649708636,
+          1122.7944781940462
+        ],
+        [
+          1087.4977126599074,
+          293.5743106963483
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          958.0206481840819,
+          1210.6086122086867
+        ],
+        [
+          1103.6730112416744,
+          816.1519837606129
+        ],
+        [
+          1188.325356184408,
+          337.54288702685284
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1593.0260551915526,
+          1240.299275483431
+        ],
+        [
+          1325.4074548747012,
+          368.2196779986155
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "IMG_7449_frame_137_rot3.jpg",
+  "imageData": null,
+  "imageHeight": 1540,
+  "imageWidth": 2134
+}

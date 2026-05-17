@@ -1,0 +1,32 @@
+# ===== Datasets — raw images (too large / third-party license) =====
+# CropAndWeed original images — download from official source instead
+datasets/baseline_dataset_AB/images/
+datasets/coco_v3/images/
+datasets/coco_v3/train/
+datasets/coco_v3/val/
+datasets/coco_v3/test/
+
+# Augmented images — regenerate with data_preparation.py
+datasets/corn_augmented/aug_*/
+datasets/corn_augmented/train/aug_*/
+
+# ===== Model checkpoints =====
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+outputs/
+
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# ===== Logs & temp files =====
+*.log
+runs/
+wandb/

@@ -1,0 +1,106 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          307.953216374269,
+          646.4327485380113
+        ],
+        [
+          713.8011695906432,
+          40.584795321637415
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          572.280701754386,
+          699.0643274853799
+        ],
+        [
+          768.7719298245614,
+          354.03508771929825
+        ],
+        [
+          837.7777777777776,
+          42.92397660818713
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          998.0116959064327,
+          954.0350877192982
+        ],
+        [
+          995.6725146198829,
+          359.88304093567245
+        ],
+        [
+          925.4970760233916,
+          23.04093567251462
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1565.2631578947367,
+          991.4619883040932
+        ],
+        [
+          1400.3508771929824,
+          542.3391812865495
+        ],
+        [
+          1042.4561403508771,
+          39.415204678362585
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "IMG_7449_frame_144.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

@@ -1,0 +1,98 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          354.872261616297,
+          1419.1770725297383
+        ],
+        [
+          572.1905290097008,
+          679.1692857722485
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          778.0935744092923,
+          1214.1063651817967
+        ],
+        [
+          786.4862080577224,
+          532.7161571661155
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1277.02439128554,
+          1234.1440820866837
+        ],
+        [
+          1144.8347685385702,
+          932.5098553486972
+        ],
+        [
+          993.2379486086146,
+          557.0368669603744
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          2056.974094305263,
+          1017.476833698061
+        ],
+        [
+          1104.4810370670127,
+          308.6907489603686
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "IMG_7449_frame_93_rot2.jpg",
+  "imageData": null,
+  "imageHeight": 1671,
+  "imageWidth": 2173
+}

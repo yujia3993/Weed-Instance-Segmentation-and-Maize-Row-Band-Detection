@@ -1,0 +1,106 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          324.313725490196,
+          383.52941176470586
+        ],
+        [
+          409.01960784313724,
+          122.35294117647052
+        ],
+        [
+          460.0,
+          26.666666666666657
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          558.8235294117648,
+          595.2941176470589
+        ],
+        [
+          581.5686274509803,
+          351.37254901960785
+        ],
+        [
+          620.7843137254902,
+          101.17647058823522
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          910.9803921568628,
+          410.1960784313725
+        ],
+        [
+          857.6470588235295,
+          241.56862745098036
+        ],
+        [
+          794.1176470588236,
+          40.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1219.2156862745098,
+          532.549019607843
+        ],
+        [
+          953.3333333333334,
+          47.84313725490193
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "1220.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

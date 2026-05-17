@@ -1,0 +1,119 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1885.8506440244055,
+          1178.5708140552974
+        ],
+        [
+          1665.6301801704005,
+          676.3920624332652
+        ],
+        [
+          1525.041672953666,
+          365.06953601771454
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1575.6695025083864,
+          1183.8500290470622
+        ],
+        [
+          1421.3273953775106,
+          340.91192709904533
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1009.9343683664947,
+          1252.6363354777889
+        ],
+        [
+          1289.1857157699515,
+          336.9867534408448
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          412.7361825962896,
+          982.4302745023512
+        ],
+        [
+          1140.4658826710606,
+          272.92040758724636
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          168.55215331857994,
+          673.6206449564056
+        ],
+        [
+          1011.6757724991849,
+          238.41120157357693
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "IMG_7449_frame_73_rot_flip.jpg",
+  "imageData": null,
+  "imageHeight": 1540,
+  "imageWidth": 2134
+}

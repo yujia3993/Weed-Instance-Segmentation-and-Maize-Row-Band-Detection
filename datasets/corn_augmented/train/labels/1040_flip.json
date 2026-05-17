@@ -1,0 +1,106 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          821.3529411764705,
+          354.5098039215686
+        ],
+        [
+          759.3921568627451,
+          44.70588235294116
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          476.2549019607843,
+          530.9803921568625
+        ],
+        [
+          531.156862745098,
+          260.3921568627451
+        ],
+        [
+          556.2549019607843,
+          38.431372549019585
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          108.4117647058822,
+          452.549019607843
+        ],
+        [
+          169.58823529411757,
+          349.01960784313724
+        ],
+        [
+          222.1372549019609,
+          219.60784313725483
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1113.1176470588234,
+          664.313725490196
+        ],
+        [
+          1068.4117647058824,
+          403.13725490196066
+        ],
+        [
+          953.1176470588235,
+          134.90196078431362
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "1040_flip.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

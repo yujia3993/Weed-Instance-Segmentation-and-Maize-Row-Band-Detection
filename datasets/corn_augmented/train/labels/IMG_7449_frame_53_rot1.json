@@ -1,0 +1,77 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          425.0277371360384,
+          1053.2634001160948
+        ],
+        [
+          1098.2548673813462,
+          244.39016026285702
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          943.1140162794029,
+          949.914333459612
+        ],
+        [
+          1230.5746802616752,
+          288.32109260346925
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1563.0156270586012,
+          1135.390058795658
+        ],
+        [
+          1456.342548279636,
+          561.9248932668593
+        ],
+        [
+          1373.6675580856381,
+          332.71696032811013
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "IMG_7449_frame_53_rot1.jpg",
+  "imageData": null,
+  "imageHeight": 1540,
+  "imageWidth": 2134
+}

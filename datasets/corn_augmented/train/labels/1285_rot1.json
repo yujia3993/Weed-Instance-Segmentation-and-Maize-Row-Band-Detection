@@ -1,0 +1,106 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          282.53871683541047,
+          604.4373999520933
+        ],
+        [
+          449.08309948720984,
+          373.80116599619623
+        ],
+        [
+          565.8655239910552,
+          183.42202252669708
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          552.16358206725,
+          783.0527175042141
+        ],
+        [
+          660.0589816957013,
+          419.7762261228122
+        ],
+        [
+          761.2729686654582,
+          193.55826098786065
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          869.9857868422948,
+          709.0645822885024
+        ],
+        [
+          898.268245679618,
+          464.11665440566617
+        ],
+        [
+          883.6361951371158,
+          236.9011458378009
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1225.961210368701,
+          922.9971819711589
+        ],
+        [
+          1023.5075071786027,
+          257.32794326625634
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "1285_rot1.jpg",
+  "imageData": null,
+  "imageHeight": 1026,
+  "imageWidth": 1422
+}

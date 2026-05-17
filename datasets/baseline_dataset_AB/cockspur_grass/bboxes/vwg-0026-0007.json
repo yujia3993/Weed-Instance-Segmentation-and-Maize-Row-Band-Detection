@@ -1,0 +1,194 @@
+{
+  "imagePath": "vwg-0026-0007.jpg",
+  "bboxes": [
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        195.0,
+        545.0,
+        234.0,
+        609.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        733.0,
+        489.0,
+        912.0,
+        564.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1047.0,
+        358.0,
+        1267.0,
+        503.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1443.0,
+        540.0,
+        1520.0,
+        623.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        697.0,
+        299.0,
+        938.0,
+        477.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1551.0,
+        398.0,
+        1794.0,
+        555.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        569.0,
+        474.0,
+        700.0,
+        633.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1089.0,
+        505.0,
+        1296.0,
+        724.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1276.0,
+        562.0,
+        1300.0,
+        586.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1304.0,
+        500.0,
+        1311.0,
+        513.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1262.0,
+        505.0,
+        1296.0,
+        535.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1276.0,
+        513.0,
+        1417.0,
+        708.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1304.0,
+        436.0,
+        1360.0,
+        513.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        262.0,
+        476.0,
+        464.0,
+        605.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        258.0,
+        571.0,
+        390.0,
+        688.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        388.0,
+        576.0,
+        464.0,
+        588.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        456.0,
+        595.0,
+        464.0,
+        602.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        455.0,
+        539.0,
+        565.0,
+        643.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        0.0,
+        502.0,
+        79.0,
+        556.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1827.0,
+        414.0,
+        1919.0,
+        438.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1844.0,
+        349.0,
+        1919.0,
+        408.0
+      ]
+    }
+  ]
+}

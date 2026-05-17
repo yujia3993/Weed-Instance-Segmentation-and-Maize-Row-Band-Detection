@@ -1,0 +1,95 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          815.9277550231405,
+          486.7892422841235
+        ],
+        [
+          687.4010038935029,
+          133.44980329918553
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          506.46451701447086,
+          542.8275934533065
+        ],
+        [
+          502.3969789111744,
+          210.9558039541246
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          180.07387057159667,
+          543.9778363139874
+        ],
+        [
+          275.9042049621164,
+          215.34857165203795
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1153.2129425175617,
+          590.5576286419587
+        ],
+        [
+          1078.5584447656145,
+          429.85169166888625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "1070_rot_flip.jpg",
+  "imageData": null,
+  "imageHeight": 931,
+  "imageWidth": 1385,
+  "description": ""
+}

@@ -1,0 +1,32 @@
+{
+  "imagePath": "vwg-0445-0003.jpg",
+  "bboxes": [
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        324.0,
+        639.0,
+        350.0,
+        653.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        760.0,
+        652.0,
+        1499.0,
+        1087.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        283.0,
+        910.0,
+        441.0,
+        1087.0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          343.11883424520795,
+          1065.2197570803405
+        ],
+        [
+          941.8861144208362,
+          213.38892318994337
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          877.3066844048697,
+          1168.3969321213117
+        ],
+        [
+          1042.7005504400158,
+          646.036596734024
+        ],
+        [
+          1082.3356927690074,
+          263.13076762375715
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1594.543879990007,
+          1419.9116768167476
+        ],
+        [
+          1401.8861487024415,
+          864.5758704364398
+        ],
+        [
+          1224.2177212591573,
+          312.04558658249897
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1891.2566632888293,
+          1085.3051553216244
+        ],
+        [
+          1465.251608555966,
+          420.22099804947976
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_7449_frame_10_rot1.jpg",
+  "imageData": null,
+  "imageHeight": 1540,
+  "imageWidth": 2134,
+  "description": ""
+}

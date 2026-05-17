@@ -1,0 +1,110 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          294.85123791869773,
+          881.1048262441386
+        ],
+        [
+          514.6950675894509,
+          567.0632446107561
+        ],
+        [
+          1088.568617988582,
+          104.7253138937701
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          658.0960816454382,
+          935.5929686503172
+        ],
+        [
+          887.2581348554164,
+          483.0484088737714
+        ],
+        [
+          1114.2192815502385,
+          124.27781462171458
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1124.0881908853771,
+          722.7472222162646
+        ],
+        [
+          1099.8969879759052,
+          424.9270421226066
+        ],
+        [
+          1166.1769223191482,
+          128.79489772344132
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1514.549018640126,
+          1016.604202507593
+        ],
+        [
+          1371.0716994716158,
+          509.40557626808067
+        ],
+        [
+          1225.7028654684268,
+          124.96171273895558
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "IMG_7449_frame_129_persp.jpg",
+  "imageData": null,
+  "imageHeight": 1181,
+  "imageWidth": 2097
+}

@@ -1,0 +1,102 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          150.17747122090722,
+          728.628488439657
+        ],
+        [
+          565.3021036782646,
+          87.77000441669945
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          416.4790743977138,
+          1050.8753746150023
+        ],
+        [
+          753.7973192062035,
+          70.06406458576394
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1046.7974811273539,
+          959.0740602494005
+        ],
+        [
+          1025.8285370396593,
+          467.5800155514051
+        ],
+        [
+          970.9185895239692,
+          82.05638242479483
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1794.2805816663117,
+          921.9547269961523
+        ],
+        [
+          1325.4392380686008,
+          285.2549778882647
+        ],
+        [
+          1246.9301330220433,
+          109.52149504090784
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "IMG_7449_frame_65_persp.jpg",
+  "imageData": null,
+  "imageHeight": 1139,
+  "imageWidth": 2068
+}

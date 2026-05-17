@@ -1,0 +1,98 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          165.18671260508532,
+          504.4852195281146
+        ],
+        [
+          696.9858153017279,
+          52.31097731524885
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          434.56191374132726,
+          745.5634178977641
+        ],
+        [
+          755.8320380155474,
+          306.5560867082749
+        ],
+        [
+          855.8867557831044,
+          54.89504035050094
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1148.2534686247855,
+          754.7880733092938
+        ],
+        [
+          1053.9259974380132,
+          56.46331595534464
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1750.1337856541643,
+          940.9397267096798
+        ],
+        [
+          1254.5400724737167,
+          65.64749080313561
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "IMG_7449_frame_113_persp.jpg",
+  "imageData": null,
+  "imageHeight": 1023,
+  "imageWidth": 2068
+}

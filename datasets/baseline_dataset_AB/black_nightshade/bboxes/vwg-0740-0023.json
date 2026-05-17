@@ -1,0 +1,23 @@
+{
+  "imagePath": "vwg-0740-0023.jpg",
+  "bboxes": [
+    {
+      "label": "black_nightshade",
+      "bbox": [
+        1249.0,
+        1041.0,
+        1293.0,
+        1087.0
+      ]
+    },
+    {
+      "label": "black_nightshade",
+      "bbox": [
+        1858.0,
+        117.0,
+        1881.0,
+        163.0
+      ]
+    }
+  ]
+}

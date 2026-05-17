@@ -1,0 +1,32 @@
+{
+  "imagePath": "ave-0132-0018.jpg",
+  "bboxes": [
+    {
+      "label": "field_milk_thistle",
+      "bbox": [
+        724.0,
+        879.0,
+        753.0,
+        907.0
+      ]
+    },
+    {
+      "label": "field_milk_thistle",
+      "bbox": [
+        1051.0,
+        558.0,
+        1173.0,
+        656.0
+      ]
+    },
+    {
+      "label": "field_milk_thistle",
+      "bbox": [
+        504.0,
+        448.0,
+        617.0,
+        514.0
+      ]
+    }
+  ]
+}

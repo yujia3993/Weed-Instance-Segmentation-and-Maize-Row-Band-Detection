@@ -1,0 +1,106 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          299.7068096124667,
+          1216.5546081510183
+        ],
+        [
+          568.5479063541374,
+          484.60596645872613
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          635.018898350608,
+          1383.4080635295888
+        ],
+        [
+          733.8924813083853,
+          902.84646664342
+        ],
+        [
+          815.1493711682845,
+          370.095329756925
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1262.0334687588,
+          1097.9476303663089
+        ],
+        [
+          1147.0578966729702,
+          840.5731006085284
+        ],
+        [
+          1001.1881959384002,
+          264.54730754354114
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          2060.688634951853,
+          1014.7203516057361
+        ],
+        [
+          1663.3205178557976,
+          616.270645479495
+        ],
+        [
+          1219.0871037008915,
+          214.63741651364865
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "IMG_7449_frame_83_rot2.jpg",
+  "imageData": null,
+  "imageHeight": 1540,
+  "imageWidth": 2134
+}

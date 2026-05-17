@@ -1,0 +1,14 @@
+{
+  "imagePath": "vwg-0901-0011.jpg",
+  "bboxes": [
+    {
+      "label": "meadow_grass",
+      "bbox": [
+        876.0,
+        980.0,
+        1014.0,
+        1087.0
+      ]
+    }
+  ]
+}

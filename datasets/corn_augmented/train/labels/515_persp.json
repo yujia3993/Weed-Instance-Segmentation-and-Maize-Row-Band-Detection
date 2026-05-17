@@ -1,0 +1,77 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          359.76579050618335,
+          568.2117181542286
+        ],
+        [
+          498.6228611887846,
+          294.37150179512633
+        ],
+        [
+          583.7203479850567,
+          57.453939137519235
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          728.9792919170601,
+          486.52126987930194
+        ],
+        [
+          709.946286398657,
+          80.62027833036036
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1026.5200992177038,
+          487.1596537534147
+        ],
+        [
+          943.001270665925,
+          83.14041953399715
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "515_persp.jpg",
+  "imageData": null,
+  "imageHeight": 701,
+  "imageWidth": 1356
+}

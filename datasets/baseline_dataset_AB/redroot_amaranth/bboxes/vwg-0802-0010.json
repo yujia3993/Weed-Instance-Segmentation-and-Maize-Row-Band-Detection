@@ -1,0 +1,23 @@
+{
+  "imagePath": "vwg-0802-0010.jpg",
+  "bboxes": [
+    {
+      "label": "redroot_amaranth",
+      "bbox": [
+        528.0,
+        901.0,
+        592.0,
+        984.0
+      ]
+    },
+    {
+      "label": "redroot_amaranth",
+      "bbox": [
+        1323.0,
+        469.0,
+        1353.0,
+        505.0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          148.16516906086147,
+          830.7554270311989
+        ],
+        [
+          635.4032867918473,
+          156.34054493357638
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          482.9829932997381,
+          1078.927588302326
+        ],
+        [
+          713.309608360803,
+          612.5423076578803
+        ],
+        [
+          930.5338183591721,
+          104.11176193722568
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1239.3236123740915,
+          928.3992336277919
+        ],
+        [
+          1175.907735602209,
+          645.9040423559886
+        ],
+        [
+          1153.8484114684034,
+          46.811756932797714
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          2093.1010712615594,
+          1019.9747829458441
+        ],
+        [
+          1768.540416683797,
+          543.7567273935401
+        ],
+        [
+          1394.6433852956611,
+          51.564141981609694
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "IMG_7449_frame_83_persp.jpg",
+  "imageData": null,
+  "imageHeight": 1163,
+  "imageWidth": 2163
+}

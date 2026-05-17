@@ -1,0 +1,14 @@
+{
+  "imagePath": "ave-0288-0018.jpg",
+  "bboxes": [
+    {
+      "label": "white_goosefoot",
+      "bbox": [
+        1121.0,
+        810.0,
+        1230.0,
+        898.0
+      ]
+    }
+  ]
+}

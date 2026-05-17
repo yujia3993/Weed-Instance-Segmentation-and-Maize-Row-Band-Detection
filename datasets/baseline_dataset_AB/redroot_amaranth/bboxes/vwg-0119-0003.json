@@ -1,0 +1,14 @@
+{
+  "imagePath": "vwg-0119-0003.jpg",
+  "bboxes": [
+    {
+      "label": "redroot_amaranth",
+      "bbox": [
+        791.0,
+        392.0,
+        1007.0,
+        635.0
+      ]
+    }
+  ]
+}

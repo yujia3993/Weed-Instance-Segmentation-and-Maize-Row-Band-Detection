@@ -1,0 +1,167 @@
+{
+  "imagePath": "vwg-0060-0003.jpg",
+  "bboxes": [
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        0.0,
+        29.0,
+        183.0,
+        107.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        0.0,
+        362.0,
+        127.0,
+        421.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        84.0,
+        366.0,
+        127.0,
+        394.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1707.0,
+        0.0,
+        1770.0,
+        88.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1848.0,
+        2.0,
+        1881.0,
+        153.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1496.0,
+        311.0,
+        1919.0,
+        721.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        84.0,
+        0.0,
+        1414.0,
+        1086.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        56.0,
+        29.0,
+        183.0,
+        80.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        56.0,
+        377.0,
+        128.0,
+        421.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1373.0,
+        820.0,
+        1468.0,
+        883.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        56.0,
+        896.0,
+        228.0,
+        960.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1194.0,
+        937.0,
+        1250.0,
+        952.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        216.0,
+        951.0,
+        285.0,
+        991.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        321.0,
+        963.0,
+        352.0,
+        1013.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        0.0,
+        844.0,
+        228.0,
+        960.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        216.0,
+        951.0,
+        285.0,
+        990.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        321.0,
+        963.0,
+        352.0,
+        1013.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1194.0,
+        937.0,
+        1250.0,
+        952.0
+      ]
+    }
+  ]
+}

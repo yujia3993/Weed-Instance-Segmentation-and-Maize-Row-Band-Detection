@@ -1,0 +1,103 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          491.7226156245227,
+          1141.0094946853856
+        ],
+        [
+          702.831722066183,
+          41.76805527423176
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1000.7019168927167,
+          1102.401760756855
+        ],
+        [
+          961.1402276935678,
+          499.38024561395855
+        ],
+        [
+          853.7076488308396,
+          55.76577262130232
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1726.9265408166466,
+          1166.707037852793
+        ],
+        [
+          1369.2683547548288,
+          634.0054339930969
+        ],
+        [
+          1005.5863538426709,
+          68.36390685225608
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1894.0951556470118,
+          732.3595216933871
+        ],
+        [
+          1272.581130543149,
+          118.61299142332739
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_7449_frame_10_persp.jpg",
+  "imageData": null,
+  "imageHeight": 1220,
+  "imageWidth": 1999,
+  "description": ""
+}

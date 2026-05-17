@@ -1,0 +1,110 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          173.61603545426826,
+          886.0978381159547
+        ],
+        [
+          682.198087949175,
+          306.71274181690467
+        ],
+        [
+          916.525175941569,
+          42.944512959544156
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          691.17880961455,
+          782.463303097773
+        ],
+        [
+          867.0184766844567,
+          341.97954919926826
+        ],
+        [
+          1028.3180974648567,
+          35.11729236241442
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1072.835556222073,
+          977.1874809120143
+        ],
+        [
+          1064.4557723231135,
+          422.9381820982476
+        ],
+        [
+          1100.2557878000723,
+          71.96400740693016
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1712.7887251056602,
+          911.9493611895189
+        ],
+        [
+          1490.6894307443367,
+          682.0981634044989
+        ],
+        [
+          1211.723117644462,
+          82.74819886171277
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "IMG_7449_frame_123_persp.jpg",
+  "imageData": null,
+  "imageHeight": 1117,
+  "imageWidth": 2085
+}

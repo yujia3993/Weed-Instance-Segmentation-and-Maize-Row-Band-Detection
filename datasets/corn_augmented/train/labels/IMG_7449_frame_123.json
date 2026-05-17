@@ -1,0 +1,110 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          127.83625730994157,
+          882.6900584795317
+        ],
+        [
+          560.5847953216374,
+          328.3040935672514
+        ],
+        [
+          786.3157894736842,
+          42.92397660818713
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          603.859649122807,
+          796.140350877193
+        ],
+        [
+          750.0584795321637,
+          366.90058479532155
+        ],
+        [
+          904.4444444444443,
+          34.73684210526318
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          972.280701754386,
+          977.426900584795
+        ],
+        [
+          952.3976608187133,
+          452.2807017543859
+        ],
+        [
+          981.6374269005846,
+          76.84210526315792
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1579.298245614035,
+          929.4736842105262
+        ],
+        [
+          1374.6198830409355,
+          713.099415204678
+        ],
+        [
+          1099.766081871345,
+          89.70760233918128
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "IMG_7449_frame_123.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

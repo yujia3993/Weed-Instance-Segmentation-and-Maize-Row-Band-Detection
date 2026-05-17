@@ -1,0 +1,106 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1158.3001531338896,
+          610.7465916667454
+        ],
+        [
+          972.2882498642552,
+          395.503297582501
+        ],
+        [
+          839.357582090478,
+          216.02686317844316
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          905.2686425835934,
+          812.1815794026597
+        ],
+        [
+          766.1221850961309,
+          459.6911684408086
+        ],
+        [
+          645.5771531299316,
+          243.15541117106744
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          582.2073563716252,
+          766.17502169794
+        ],
+        [
+          532.6839022397576,
+          524.6241733391962
+        ],
+        [
+          527.4571369993895,
+          296.99802114671616
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          246.23198142693536,
+          1010.3188456881423
+        ],
+        [
+          389.898390230357,
+          329.5376765340029
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "1285_rot_flip.jpg",
+  "imageData": null,
+  "imageHeight": 1114,
+  "imageWidth": 1449
+}

@@ -1,0 +1,106 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          152.7292617907394,
+          945.5219344672087
+        ],
+        [
+          403.5031566804793,
+          614.4479635083609
+        ],
+        [
+          890.9262061378464,
+          207.52591050644205
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          588.5185232136059,
+          979.6085344480961
+        ],
+        [
+          1005.290386387151,
+          192.06239718518498
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          981.2230407155633,
+          1055.978737114954
+        ],
+        [
+          1076.202995799113,
+          503.8498364738061
+        ],
+        [
+          1093.777577971096,
+          208.85270997274736
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1676.9403603080384,
+          1299.7910848530541
+        ],
+        [
+          1373.381490528056,
+          616.8197298547336
+        ],
+        [
+          1195.2714316448423,
+          212.49721318117952
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "IMG_7449_frame_86_rot3.jpg",
+  "imageData": null,
+  "imageHeight": 1396,
+  "imageWidth": 2078
+}

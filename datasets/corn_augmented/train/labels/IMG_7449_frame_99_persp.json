@@ -1,0 +1,98 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          159.56199260753934,
+          681.5659450494587
+        ],
+        [
+          373.6039983749234,
+          422.83415164648176
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          353.4102266531941,
+          897.3097068834925
+        ],
+        [
+          812.1148308185209,
+          109.37799821602354
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          863.14205599492,
+          929.8567582185557
+        ],
+        [
+          950.6323399655214,
+          497.4496913862823
+        ],
+        [
+          1014.2437299136807,
+          75.28001230942274
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1639.6605638025053,
+          945.0651188107125
+        ],
+        [
+          1257.568764000575,
+          117.21675935025009
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "IMG_7449_frame_99_persp.jpg",
+  "imageData": null,
+  "imageHeight": 1166,
+  "imageWidth": 2111
+}

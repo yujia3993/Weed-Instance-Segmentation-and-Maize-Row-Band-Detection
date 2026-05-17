@@ -1,0 +1,50 @@
+{
+  "imagePath": "vwg-0408-0008.jpg",
+  "bboxes": [
+    {
+      "label": "redroot_amaranth",
+      "bbox": [
+        1237.0,
+        870.0,
+        1254.0,
+        889.0
+      ]
+    },
+    {
+      "label": "redroot_amaranth",
+      "bbox": [
+        560.0,
+        739.0,
+        606.0,
+        762.0
+      ]
+    },
+    {
+      "label": "redroot_amaranth",
+      "bbox": [
+        52.0,
+        35.0,
+        105.0,
+        70.0
+      ]
+    },
+    {
+      "label": "redroot_amaranth",
+      "bbox": [
+        905.0,
+        0.0,
+        1291.0,
+        316.0
+      ]
+    },
+    {
+      "label": "redroot_amaranth",
+      "bbox": [
+        1866.0,
+        46.0,
+        1919.0,
+        112.0
+      ]
+    }
+  ]
+}

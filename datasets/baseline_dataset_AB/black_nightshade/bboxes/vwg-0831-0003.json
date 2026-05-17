@@ -1,0 +1,50 @@
+{
+  "imagePath": "vwg-0831-0003.jpg",
+  "bboxes": [
+    {
+      "label": "black_nightshade",
+      "bbox": [
+        855.0,
+        842.0,
+        871.0,
+        859.0
+      ]
+    },
+    {
+      "label": "black_nightshade",
+      "bbox": [
+        57.0,
+        686.0,
+        86.0,
+        714.0
+      ]
+    },
+    {
+      "label": "black_nightshade",
+      "bbox": [
+        234.0,
+        622.0,
+        269.0,
+        669.0
+      ]
+    },
+    {
+      "label": "black_nightshade",
+      "bbox": [
+        60.0,
+        581.0,
+        88.0,
+        606.0
+      ]
+    },
+    {
+      "label": "black_nightshade",
+      "bbox": [
+        1831.0,
+        572.0,
+        1860.0,
+        602.0
+      ]
+    }
+  ]
+}

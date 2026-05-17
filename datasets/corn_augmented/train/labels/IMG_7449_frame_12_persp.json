@@ -1,0 +1,78 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          517.5157069577901,
+          853.5079924804638
+        ],
+        [
+          853.2880262282813,
+          90.48269368637965
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1017.0687480576637,
+          972.4520119777183
+        ],
+        [
+          1045.8681545549896,
+          645.8319168254413
+        ],
+        [
+          977.4229893612642,
+          76.8707061725917
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1664.4844160867826,
+          911.6148781798837
+        ],
+        [
+          1111.8438419462075,
+          79.2095092183813
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_7449_frame_12_persp.jpg",
+  "imageData": null,
+  "imageHeight": 1033,
+  "imageWidth": 2034,
+  "description": ""
+}

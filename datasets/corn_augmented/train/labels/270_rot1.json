@@ -1,0 +1,85 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          332.02542866535646,
+          624.1378422858531
+        ],
+        [
+          503.90970612678916,
+          349.419487881695
+        ],
+        [
+          603.8322955466476,
+          116.96484529465147
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          667.0186441672811,
+          680.0205324174074
+        ],
+        [
+          778.5158930875241,
+          368.3726856419358
+        ],
+        [
+          799.6185209962135,
+          194.49354285470005
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1039.9842538990663,
+          660.5682381939953
+        ],
+        [
+          993.9216907244102,
+          388.8334529298866
+        ],
+        [
+          975.0834585611874,
+          184.01926801137145
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "270_rot1.jpg",
+  "imageData": null,
+  "imageHeight": 931,
+  "imageWidth": 1385
+}

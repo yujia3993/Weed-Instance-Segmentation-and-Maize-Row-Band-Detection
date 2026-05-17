@@ -1,0 +1,106 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          284.5986394660223,
+          586.5343528766185
+        ],
+        [
+          449.594434126181,
+          218.48574882026824
+        ],
+        [
+          546.7959802461037,
+          52.38952011894673
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          575.0807269909469,
+          675.7266617123762
+        ],
+        [
+          663.3590925275965,
+          220.85606926586334
+        ],
+        [
+          688.6212708410259,
+          66.95283577864735
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1040.7307726666936,
+          651.0601631489268
+        ],
+        [
+          938.9852933363471,
+          368.3010055174273
+        ],
+        [
+          851.6482633458427,
+          61.72053583001513
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1183.6270589961755,
+          403.4589766976746
+        ],
+        [
+          993.9539852517418,
+          56.90313209050024
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "1225_persp.jpg",
+  "imageData": null,
+  "imageHeight": 716,
+  "imageWidth": 1290
+}

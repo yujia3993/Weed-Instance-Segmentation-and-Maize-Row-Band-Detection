@@ -1,0 +1,102 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          200.01796823920913,
+          465.3076520904358
+        ],
+        [
+          544.8720216915056,
+          57.34842414947453
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          541.051457959482,
+          926.4039359985236
+        ],
+        [
+          628.4875055897172,
+          394.694636670803
+        ],
+        [
+          737.9871940327145,
+          41.540997203330114
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1096.956253244306,
+          731.5041096887115
+        ],
+        [
+          929.4287413067707,
+          65.86119503564716
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1622.3607760782681,
+          805.7095173149416
+        ],
+        [
+          1410.9772732919864,
+          449.22528774952974
+        ],
+        [
+          1127.8992963019027,
+          71.40770190921408
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "IMG_7449_frame_116_persp.jpg",
+  "imageData": null,
+  "imageHeight": 1081,
+  "imageWidth": 2011
+}

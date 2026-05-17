@@ -1,0 +1,41 @@
+{
+  "imagePath": "ave-0053-0020.jpg",
+  "bboxes": [
+    {
+      "label": "meadow_grass",
+      "bbox": [
+        355.0,
+        295.0,
+        429.0,
+        308.0
+      ]
+    },
+    {
+      "label": "meadow_grass",
+      "bbox": [
+        127.0,
+        0.0,
+        202.0,
+        92.0
+      ]
+    },
+    {
+      "label": "meadow_grass",
+      "bbox": [
+        444.0,
+        644.0,
+        557.0,
+        687.0
+      ]
+    },
+    {
+      "label": "meadow_grass",
+      "bbox": [
+        1604.0,
+        613.0,
+        1815.0,
+        1087.0
+      ]
+    }
+  ]
+}

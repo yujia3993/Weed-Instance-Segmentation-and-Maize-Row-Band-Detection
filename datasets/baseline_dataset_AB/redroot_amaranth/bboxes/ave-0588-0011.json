@@ -1,0 +1,14 @@
+{
+  "imagePath": "ave-0588-0011.jpg",
+  "bboxes": [
+    {
+      "label": "redroot_amaranth",
+      "bbox": [
+        1031.0,
+        518.0,
+        1084.0,
+        573.0
+      ]
+    }
+  ]
+}

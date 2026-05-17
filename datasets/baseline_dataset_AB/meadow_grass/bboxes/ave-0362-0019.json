@@ -1,0 +1,14 @@
+{
+  "imagePath": "ave-0362-0019.jpg",
+  "bboxes": [
+    {
+      "label": "meadow_grass",
+      "bbox": [
+        103.0,
+        30.0,
+        354.0,
+        203.0
+      ]
+    }
+  ]
+}

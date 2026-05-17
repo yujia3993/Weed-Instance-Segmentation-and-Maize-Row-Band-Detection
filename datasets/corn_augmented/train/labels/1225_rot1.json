@@ -1,0 +1,106 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          289.9077051384559,
+          652.6948495411443
+        ],
+        [
+          521.2357003206305,
+          325.739947729915
+        ],
+        [
+          654.8443523611952,
+          175.59655633116458
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          553.040625027648,
+          810.083103950147
+        ],
+        [
+          735.8363496421276,
+          382.430037092836
+        ],
+        [
+          796.8504973657115,
+          227.4506706108494
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1009.5986647242036,
+          903.1861345379025
+        ],
+        [
+          978.1297174371574,
+          602.4407810569514
+        ],
+        [
+          965.7530003301999,
+          263.77616538212374
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1214.30512292505,
+          699.8270055842104
+        ],
+        [
+          1113.997608114369,
+          295.37837514047345
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "1225_rot1.jpg",
+  "imageData": null,
+  "imageHeight": 1026,
+  "imageWidth": 1422
+}

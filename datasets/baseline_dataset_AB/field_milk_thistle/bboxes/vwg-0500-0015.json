@@ -1,0 +1,50 @@
+{
+  "imagePath": "vwg-0500-0015.jpg",
+  "bboxes": [
+    {
+      "label": "field_milk_thistle",
+      "bbox": [
+        682.0,
+        0.0,
+        1053.0,
+        150.0
+      ]
+    },
+    {
+      "label": "field_milk_thistle",
+      "bbox": [
+        1201.0,
+        0.0,
+        1327.0,
+        130.0
+      ]
+    },
+    {
+      "label": "field_milk_thistle",
+      "bbox": [
+        1478.0,
+        144.0,
+        1501.0,
+        170.0
+      ]
+    },
+    {
+      "label": "field_milk_thistle",
+      "bbox": [
+        1512.0,
+        0.0,
+        1919.0,
+        346.0
+      ]
+    },
+    {
+      "label": "field_milk_thistle",
+      "bbox": [
+        1574.0,
+        682.0,
+        1919.0,
+        1087.0
+      ]
+    }
+  ]
+}

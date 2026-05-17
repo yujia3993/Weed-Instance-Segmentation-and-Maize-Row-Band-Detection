@@ -1,0 +1,102 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          223.41952501621356,
+          619.2933323298562
+        ],
+        [
+          359.9139823921568,
+          132.4579803979599
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          496.63660737768936,
+          517.071465684221
+        ],
+        [
+          504.37439445224214,
+          369.9433053313946
+        ],
+        [
+          532.3784717863945,
+          271.4682562413213
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          802.4442869805533,
+          520.2063590922562
+        ],
+        [
+          699.395385377107,
+          316.8079170637379
+        ],
+        [
+          647.4404913439666,
+          60.844968434059574
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1055.528917461239,
+          478.70532595299125
+        ],
+        [
+          805.8443879265789,
+          71.51332419270354
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "1300_persp.jpg",
+  "imageData": null,
+  "imageHeight": 714,
+  "imageWidth": 1183
+}

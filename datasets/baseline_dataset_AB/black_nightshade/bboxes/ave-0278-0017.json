@@ -1,0 +1,14 @@
+{
+  "imagePath": "ave-0278-0017.jpg",
+  "bboxes": [
+    {
+      "label": "black_nightshade",
+      "bbox": [
+        1519.0,
+        382.0,
+        1557.0,
+        414.0
+      ]
+    }
+  ]
+}

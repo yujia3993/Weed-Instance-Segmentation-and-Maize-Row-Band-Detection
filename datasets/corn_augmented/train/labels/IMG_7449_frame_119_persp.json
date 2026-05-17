@@ -1,0 +1,102 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          149.98268134494643,
+          791.7732608133105
+        ],
+        [
+          571.6771615619307,
+          138.65217881628658
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          485.03555566958056,
+          922.9591367527896
+        ],
+        [
+          783.9354619992837,
+          53.00115105056768
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          966.3989510197079,
+          995.5721287446651
+        ],
+        [
+          969.3892159948953,
+          331.25675336346006
+        ],
+        [
+          942.9381098304216,
+          59.156468289927844
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1622.9127350888643,
+          930.0313885320882
+        ],
+        [
+          1178.5718299011965,
+          262.8157448394416
+        ],
+        [
+          1103.4348193182254,
+          65.31778870992113
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "IMG_7449_frame_119_persp.jpg",
+  "imageData": null,
+  "imageHeight": 1067,
+  "imageWidth": 1883
+}

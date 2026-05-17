@@ -1,0 +1,32 @@
+{
+  "imagePath": "ave-0136-0010.jpg",
+  "bboxes": [
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        917.0,
+        548.0,
+        1607.0,
+        1087.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        918.0,
+        740.0,
+        935.0,
+        751.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        970.0,
+        751.0,
+        977.0,
+        763.0
+      ]
+    }
+  ]
+}

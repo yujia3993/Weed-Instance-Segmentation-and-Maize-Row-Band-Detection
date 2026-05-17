@@ -1,0 +1,14 @@
+{
+  "imagePath": "vwg-0419-0008.jpg",
+  "bboxes": [
+    {
+      "label": "field_milk_thistle",
+      "bbox": [
+        864.0,
+        415.0,
+        1080.0,
+        637.0
+      ]
+    }
+  ]
+}

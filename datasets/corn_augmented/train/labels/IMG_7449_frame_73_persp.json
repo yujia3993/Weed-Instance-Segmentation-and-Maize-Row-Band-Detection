@@ -1,0 +1,119 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          169.3911806890151,
+          715.0931086071434
+        ],
+        [
+          604.729785614035,
+          294.7647264556401
+        ],
+        [
+          845.0741937005041,
+          67.14849373214177
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          461.5704702904378,
+          822.2558732011523
+        ],
+        [
+          939.9120532446847,
+          76.95392236101881
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          972.7587322383969,
+          1084.310784530387
+        ],
+        [
+          1051.0045673429336,
+          111.54217359046557
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1622.7804927651284,
+          981.8001456433738
+        ],
+        [
+          1194.0942252570699,
+          101.04257810950229
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          1914.7990943214672,
+          743.3158966059539
+        ],
+        [
+          1309.8879211118833,
+          109.20167556081225
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "IMG_7449_frame_73_persp.jpg",
+  "imageData": null,
+  "imageHeight": 1180,
+  "imageWidth": 1991
+}

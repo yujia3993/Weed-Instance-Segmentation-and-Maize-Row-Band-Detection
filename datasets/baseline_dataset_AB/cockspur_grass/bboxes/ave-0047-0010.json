@@ -1,0 +1,131 @@
+{
+  "imagePath": "ave-0047-0010.jpg",
+  "bboxes": [
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        0.0,
+        166.0,
+        432.0,
+        451.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        73.0,
+        175.0,
+        99.0,
+        201.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        73.0,
+        175.0,
+        99.0,
+        201.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        285.0,
+        492.0,
+        343.0,
+        516.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1143.0,
+        764.0,
+        1155.0,
+        799.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1354.0,
+        878.0,
+        1490.0,
+        1003.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1296.0,
+        879.0,
+        1490.0,
+        1087.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1451.0,
+        907.0,
+        1490.0,
+        940.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1637.0,
+        777.0,
+        1677.0,
+        1087.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1637.0,
+        932.0,
+        1645.0,
+        944.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1814.0,
+        876.0,
+        1827.0,
+        946.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1335.0,
+        856.0,
+        1645.0,
+        1069.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1639.0,
+        967.0,
+        1646.0,
+        1069.0
+      ]
+    },
+    {
+      "label": "cockspur_grass",
+      "bbox": [
+        1334.0,
+        992.0,
+        1459.0,
+        1069.0
+      ]
+    }
+  ]
+}

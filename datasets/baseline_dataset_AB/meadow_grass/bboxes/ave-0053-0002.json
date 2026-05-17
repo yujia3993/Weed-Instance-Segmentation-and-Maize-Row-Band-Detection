@@ -1,0 +1,95 @@
+{
+  "imagePath": "ave-0053-0002.jpg",
+  "bboxes": [
+    {
+      "label": "meadow_grass",
+      "bbox": [
+        799.0,
+        819.0,
+        867.0,
+        889.0
+      ]
+    },
+    {
+      "label": "meadow_grass",
+      "bbox": [
+        1144.0,
+        1013.0,
+        1257.0,
+        1087.0
+      ]
+    },
+    {
+      "label": "meadow_grass",
+      "bbox": [
+        1412.0,
+        938.0,
+        1481.0,
+        1087.0
+      ]
+    },
+    {
+      "label": "meadow_grass",
+      "bbox": [
+        1537.0,
+        743.0,
+        1729.0,
+        778.0
+      ]
+    },
+    {
+      "label": "meadow_grass",
+      "bbox": [
+        1646.0,
+        11.0,
+        1859.0,
+        170.0
+      ]
+    },
+    {
+      "label": "meadow_grass",
+      "bbox": [
+        858.0,
+        4.0,
+        965.0,
+        154.0
+      ]
+    },
+    {
+      "label": "meadow_grass",
+      "bbox": [
+        603.0,
+        0.0,
+        659.0,
+        74.0
+      ]
+    },
+    {
+      "label": "meadow_grass",
+      "bbox": [
+        222.0,
+        0.0,
+        413.0,
+        232.0
+      ]
+    },
+    {
+      "label": "meadow_grass",
+      "bbox": [
+        0.0,
+        0.0,
+        120.0,
+        104.0
+      ]
+    },
+    {
+      "label": "meadow_grass",
+      "bbox": [
+        1023.0,
+        1.0,
+        1572.0,
+        480.0
+      ]
+    }
+  ]
+}

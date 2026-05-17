@@ -1,0 +1,83 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "field_milk_thistle",
+      "score": null,
+      "points": [
+        [
+          320.0,
+          312.0
+        ],
+        [
+          319.0,
+          313.0
+        ],
+        [
+          318.0,
+          313.0
+        ],
+        [
+          313.0,
+          318.0
+        ],
+        [
+          313.0,
+          321.0
+        ],
+        [
+          314.0,
+          322.0
+        ],
+        [
+          316.0,
+          322.0
+        ],
+        [
+          323.0,
+          329.0
+        ],
+        [
+          324.0,
+          329.0
+        ],
+        [
+          328.0,
+          325.0
+        ],
+        [
+          328.0,
+          315.0
+        ],
+        [
+          327.0,
+          314.0
+        ],
+        [
+          324.0,
+          314.0
+        ],
+        [
+          323.0,
+          313.0
+        ],
+        [
+          321.0,
+          313.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "vwg-0532-0001_crop00.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 640
+}

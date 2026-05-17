@@ -1,0 +1,14 @@
+{
+  "imagePath": "vwg-0206-0005.jpg",
+  "bboxes": [
+    {
+      "label": "white_goosefoot",
+      "bbox": [
+        338.0,
+        60.0,
+        1467.0,
+        1086.0
+      ]
+    }
+  ]
+}

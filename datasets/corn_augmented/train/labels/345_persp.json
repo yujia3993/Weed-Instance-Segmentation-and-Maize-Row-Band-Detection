@@ -1,0 +1,85 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          283.20448467111,
+          697.200814691006
+        ],
+        [
+          338.924809240001,
+          396.7412644542723
+        ],
+        [
+          417.0991273628079,
+          35.454369353720644
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          644.619376688919,
+          603.1680816335282
+        ],
+        [
+          600.9081459768383,
+          292.05498976011995
+        ],
+        [
+          582.9977820512299,
+          78.57929680740465
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "crop_line",
+      "score": null,
+      "points": [
+        [
+          949.2062781926189,
+          639.955353595878
+        ],
+        [
+          871.9524305983139,
+          339.3945667873004
+        ],
+        [
+          754.2028450137342,
+          72.3090298285707
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "linestrip",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "345_persp.jpg",
+  "imageData": null,
+  "imageHeight": 787,
+  "imageWidth": 1224
+}
