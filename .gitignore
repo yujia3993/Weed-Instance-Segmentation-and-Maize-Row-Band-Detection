@@ -1,14 +1,19 @@
 # ===== Datasets — raw images (too large / third-party license) =====
 # CropAndWeed original images — download from official source instead
-datasets/baseline_dataset_AB/images/
-datasets/coco_v3/images/
-datasets/coco_v3/train/
-datasets/coco_v3/val/
-datasets/coco_v3/test/
+datasets/baseline_dataset_AB/**/images/
+datasets/baseline_dataset_AB/**/masks/
 
-# Augmented images — regenerate with data_preparation.py
-datasets/corn_augmented/aug_*/
-datasets/corn_augmented/train/aug_*/
+# c_cropped — json annotations kept, images and masks excluded
+datasets/c_cropped/**/*.jpg
+datasets/c_cropped/**/*.png
+
+# corn_augmented — augmented copies only, originals kept
+datasets/corn_augmented/train/images/*_flip.*
+datasets/corn_augmented/train/images/*_persp.*
+datasets/corn_augmented/train/images/*_rot*.*
+datasets/corn_augmented/train/labels/*_flip.*
+datasets/corn_augmented/train/labels/*_persp.*
+datasets/corn_augmented/train/labels/*_rot*.*
 
 # ===== Model checkpoints =====
 *.pth
